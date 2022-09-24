@@ -1,0 +1,15 @@
+
+h2 {
+  text-align: center;
+  color: white;
+  margin-top: 90px;
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0; 
+}
